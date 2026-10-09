@@ -1,0 +1,6 @@
+{
+  "name": "Emoji World",
+  "description": "Интерактивное приложение Hello World со случайными эмодзи при каждом нажатии на экран.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
